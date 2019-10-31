@@ -1,0 +1,15 @@
+p {
+    color: blue;
+    line-height: 60px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    text-align: center;
+   }
+   div {
+       background-color: red;
+       height: 400px;
+       width: 600px;
+       margin: 20px 100px;
+       padding: 10px 50px 20px 40px;
+   }
